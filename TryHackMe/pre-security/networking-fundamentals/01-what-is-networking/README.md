@@ -33,7 +33,7 @@ By analyzing the network and spoofing Bob's local hardware configuration to matc
 
 Refer to the image below for the successful bypass and flag generation.
 
-![MAC Spoofing Success](tdo.png)
+![MAC Spoofing Success](spoof.png)
 
 ---
 
