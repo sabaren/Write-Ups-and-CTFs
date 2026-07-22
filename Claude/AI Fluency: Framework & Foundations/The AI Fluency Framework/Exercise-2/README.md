@@ -66,6 +66,10 @@ Keep the discussion grounded in standard RFC 1918 private IPv4 addressing (e.g.,
 | **Constraint Injection** | Instructing the model to ask a clarifying question prevents it from making wrong assumptions about hardware or network topology. |
 | **Iterative Refinement** | Treat the first response as a baseline draft; use direct follow-up prompts to align the solution with your exact setup. |
 
+<Image src="claude-aiflue-1.png" alt="Claude response breaking down VLAN subnets and host layers" caption="Exercise 2 Part 1: Proposed VLAN & Subnet Architecture" />
+
+<Image src="claude-aiflue-2.png" alt="Claude response showing inter-VLAN firewall rules and clarifying question" caption="Exercise 2 Part 2: Firewall Boundary Matrix & Hardware Clarification" />
+
 ```
 
 ```
